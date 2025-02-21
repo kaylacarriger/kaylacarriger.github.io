@@ -40,4 +40,6 @@ The final output of the analysis includes:
 - Visualizations that illustrate the distribution and relationships between different lifestyle factors and stress levels.
 - A correlation matrix that quantifies how strongly each factor is correlated with stress levels.
 - A summary that highlights which lifestyle factors are most strongly associated with stress levels, offering insights into how lifestyle choices might impact stress.
-- Acknowledgments The dataset used in this project was sourced from kaggle.com. Inspiration for this project came from the intersection of data analysis and mental health.
+
+### Acknowledgments 
+The dataset used in this project was sourced from kaggle.com. Inspiration for this project came from the intersection of data analysis and mental health.
