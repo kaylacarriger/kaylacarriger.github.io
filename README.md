@@ -20,9 +20,10 @@
 
 ## Tools & Technologies Used
 
-- **Python** (Pandas, Matplotlib, Seaborn,Numpy)
+- **Python** (Pandas, Matplotlib, Seaborn, Numpy)
 - **Jupyter Notebooks**
 - **Power BI**
+- **Excel**
 - **GitHub Pages** for hosting the portfolio
 
 
