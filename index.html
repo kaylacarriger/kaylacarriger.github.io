@@ -88,14 +88,37 @@
             height: auto;
             border-radius: 10px;
         }
+        .intro-section {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+}
+
+        .intro-section .text {
+            flex: 1;
+            min-width: 250px;
+}
+
+        .profile-img {
+            border-radius: 50%;
+            width: 120px;
+            height: 120px;
+            object-fit: cover;
+            margin-bottom: 0; 
+
     </style>
 </head>
 <body>
-    <div class="container">
+   <div class="container">
+    <div class="intro-section">
+        <div class="text">
+            <h1>Kayla Carriger's Data Analyst Portfolio</h1>
+            <p>Hello! I am a Financial Analyst with a Bachelor’s degree in Data Analytics and experience in Python, Excel, Power BI, and R. This portfolio showcases some of my data-driven projects and insights.</p>
+        </div>
         <img src="images/profile_pic.jpg" class="profile-img">
-        
-        <h1>Kayla Carriger's Data Analyst Portfolio</h1>
-        <p>Hello! I am a Financial Analyst with a Bachelor’s degree in Data Analytics and experience in Python, Excel, Power BI, and R. This portfolio showcases some of my data-driven projects and insights.</p>
+    </div>
         
         <div class="projects">
     <h2>Projects</h2>
@@ -129,6 +152,7 @@
 
 </body>
 </html>
+
 
 
 
